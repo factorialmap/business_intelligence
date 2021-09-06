@@ -1,7 +1,21 @@
-**Testando markdown no LinkedIn**
+## Business Intelligence
 
-- Objetivos da escrita em markdown
->- Facilidade de leitura
->- Independencia(ou quase) de plataforma
->- Portabilidade pode ser aberto por qualquer software
->- Facilidade de criação e formatação do texto
+### Conteúdo:
+  * [Por que eu gastaria tempo aprendendo isso?](#Por-que-eu-gastaria-tempo-aprendendo-isso?)
+  * [Conteúdo do material](#Neste-material-você-vai-ver)
+  * [Foco do material](#Foco)        
+  * [Exemplo de práticos ou uso comercial](#Exemplos-práticos-ou-de-uso-comercial)
+
+### Por que eu gastaria tempo aprendendo isso?
+- A
+- B
+- C
+
+### Exemplo: 
+- A
+- B
+- C
+### Exemplos práticos ou de uso comercial
+- A
+- B
+- C
